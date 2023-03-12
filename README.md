@@ -1,25 +1,25 @@
 # Flexbox-froggy
-## justify-content: flex-end
-## justify-content: center;
-## justify-content: space-around;
-## justify-content: space-between;
-## align-items: flex-end;
-## justify-content: center; align-items: center;
-## justify-content: space-around; align-items: flex-end;
-## flex-direction: row-reverse;
-## flex-direction: column;
-## flex-direction: row-reverse; justify-content: flex-end;
-## flex-direction: column; justify-content: flex-end;
-## flex-direction: column-reverse; justify-content: space-between
-## flex-direction: row-reverse; justify-content: center; align-items: flex-end;
-## order: 1
-## order: -1
-## align-self: flex-end;
-## order: 2; align-self: flex-end;
-## flex-wrap: wrap;
-## flex-direction: column; flex-wrap: wrap;
-## flex-flow: column wrap;
-## align-content: flex-start
-## align-content: flex-end;
-## flex-direction: column-reverse; align-content: center;
-## flex-flow: column-reverse wrap-reverse; order: -1; align-content: space-between; justify-content: center;
+### Level 1) justify-content: flex-end
+### Level 2) justify-content: center;
+### Level 3) justify-content: space-around;
+### Level 4) justify-content: space-between;
+### Level 5) align-items: flex-end;
+### Level 6) justify-content: center; align-items: center;
+### Level 7) justify-content: space-around; align-items: flex-end;
+### Level 8) flex-direction: row-reverse;
+### Level 9) flex-direction: column;
+### Level 10) flex-direction: row-reverse; justify-content: flex-end;
+### Level 11) flex-direction: column; justify-content: flex-end;
+### Level 12) flex-direction: column-reverse; justify-content: space-between
+### Level 13) flex-direction: row-reverse; justify-content: center; align-items: flex-end;
+### Level 14) order: 1
+### Level 15) order: -1
+### Level 16) align-self: flex-end;
+### Level 17) order: 2; align-self: flex-end;
+### Level 18) flex-wrap: wrap;
+### Level 19) flex-direction: column; flex-wrap: wrap;
+### Level 20) flex-flow: column wrap;
+### Level 21) align-content: flex-start
+### Level 22) align-content: flex-end;
+### Level 23) flex-direction: column-reverse; align-content: center;
+### Level 24) flex-flow: column-reverse wrap-reverse; order: -1; align-content: space-between; justify-content: center;
